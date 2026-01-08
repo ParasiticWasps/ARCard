@@ -260,7 +260,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 176330322}
   mHiddenRoot: {fileID: 0}
-  mTargetName: target_2
+  mTargetName: lvtongyongfangsheyuan
   mDatasetName: Vuforia/Pictures.xml
   mCastedBehaviour: {fileID: 176330322}
   mMeshFilter: {fileID: 0}
@@ -324,13 +324,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: target_2
+  mTrackableName: lvtongyongfangsheyuan
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Pictures.xml
-  mAspectRatio: 0.628331
+  mAspectRatio: 0.675629
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.628331
+  mHeight: 0.675629
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -610,7 +610,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 501117617}
   mHiddenRoot: {fileID: 0}
-  mTargetName: target
+  mTargetName: huifenyiyuan
   mDatasetName: Vuforia/Pictures.xml
   mCastedBehaviour: {fileID: 501117617}
   mMeshFilter: {fileID: 0}
@@ -674,13 +674,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: target
+  mTrackableName: huifenyiyuan
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Pictures.xml
-  mAspectRatio: 0.63727
+  mAspectRatio: 0.675629
   mImageTargetType: 0
   mWidth: 1
-  mHeight: 0.63727
+  mHeight: 0.675629
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0

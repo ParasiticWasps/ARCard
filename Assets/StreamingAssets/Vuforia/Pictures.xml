@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="target_2" size="1.000000 0.628331" />
-    <ImageTarget name="target" size="1.000000 0.637270" />
+    <ImageTarget name="huifenyiyuan" size="1.000000 0.675629" />
+    <ImageTarget name="lvtongyongfangsheyuan" size="1.000000 0.675629" />
+    <ImageTarget name="liaoweijiyuan" size="1.000000 0.675629" />
+    <ImageTarget name="huomianyuan" size="1.000000 0.675629" />
+    <ImageTarget name="hezichengyuan" size="1.000000 0.675629" />
   </Tracking>
 </QCARConfig>
