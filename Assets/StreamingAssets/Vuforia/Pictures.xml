@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="huifenyiyuan" size="1.000000 0.675629" />
+    <ImageTarget name="xytanceyi" size="1.000000 0.675629" />
+    <ImageTarget name="zhongzijilianglvyi" size="1.000000 0.675629" />
+    <ImageTarget name="xshexianpuyi" size="1.000000 0.675629" />
+    <ImageTarget name="shouchihesuyi" size="1.000000 0.675629" />
+    <ImageTarget name="gerenjiliangyi" size="1.000000 0.675629" />
+    <ImageTarget name="gerenjiliangbiaojingyi" size="1.000000 0.675629" />
+    <ImageTarget name="changganc" size="1.000000 0.675629" />
+    <ImageTarget name="biaomianwuranceliangyi" size="1.000000 0.675629" />
     <ImageTarget name="lvtongyongfangsheyuan" size="1.000000 0.675629" />
+    <ImageTarget name="huifenyuanyi" size="1.000000 0.675629" />
     <ImageTarget name="liaoweijiyuan" size="1.000000 0.675629" />
     <ImageTarget name="huomianyuan" size="1.000000 0.675629" />
     <ImageTarget name="hezichengyuan" size="1.000000 0.675629" />
